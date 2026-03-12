@@ -1,0 +1,18 @@
+[
+ {"time":"04:30","company":"MUTTAŞ"},
+ {"time":"06:30","company":"MUTTAŞ"},
+ {"time":"07:30","company":"MUTTAŞ"},
+ {"time":"08:00","company":"MUTTAŞ"},
+ {"time":"12:30","company":"MUTTAŞ"},
+ {"time":"13:30","company":"MUTTAŞ"},
+ {"time":"15:00","company":"MUTTAŞ"},
+ {"time":"18:30","company":"MUTTAŞ"},
+
+ {"time":"04:45","company":"Havaş"},
+ {"time":"06:00","company":"Havaş"},
+ {"time":"08:00","company":"Havaş"},
+ {"time":"10:00","company":"Havaş"},
+ {"time":"12:00","company":"Havaş"},
+ {"time":"14:00","company":"Havaş"},
+ {"time":"16:00","company":"Havaş"}
+]
